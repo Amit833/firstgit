@@ -1,2 +1,5 @@
 # Learning git with terminal.
-## And i am using vs code.
+
+## welcome here.
+### try to learn.
+
